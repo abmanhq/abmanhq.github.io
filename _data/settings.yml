@@ -2,14 +2,14 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: AbMan
 logo:
-author: themefisher
-description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
+author: AbMan
+description: AbMan Software Solutions
+email: support@abmanhq.com
+phone: +1 416 272 1439
 address: 125/A, CA Commercial Area, California, USA
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+copyright: Copyright &copy; 2023 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
   - { name: About, link: "/about" }
@@ -300,4 +300,4 @@ client-slider-items:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: support@abmanhq.com
